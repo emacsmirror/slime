@@ -1831,7 +1831,6 @@ Cause subsequent clauses to be indented.")
         (put name 'common-lisp-indent-function indentation)))))
 (common-lisp-init-standard-indentation)
 
-(provide 'cl-indent)
 (provide 'slime-cl-indent)
 
 ;;; slime-cl-indent.el ends here
